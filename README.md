@@ -2,7 +2,7 @@
 
 This is a site using a Github Theme
 
-### Markdown
+### First subheader
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
